@@ -1,0 +1,9 @@
+.run-btn {
+    display: block;
+}
+
+.code-area {
+    width: 100%;
+    height: 50%;
+    box-sizing: border-box;
+}
